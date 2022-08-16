@@ -1,4 +1,5 @@
-# MNISTCards - Simple MNIST Models with Fun Messages in Hidden States
+# MNISTCards
+## Simple MNIST Models with Fun Messages in Hidden States
 
 ### Setup
 ```make all```
