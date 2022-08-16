@@ -2,7 +2,7 @@
 
 ### Description
 
-Simple MNIST Models with hidden states nudged towards fun messages.
+MNIST Models with hidden states nudged towards fun messages.
 
 ### Setup
 ```make all```
