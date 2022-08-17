@@ -12,7 +12,8 @@ setup(
         'torchvision',
         'tqdm',
         'numpy',
-        'matplotlib'
+        'matplotlib',
+        'sphinx',
     ],
     include_package_data=True
 )
